@@ -302,7 +302,7 @@ Birkaç kural şu şekildedir:
 - `a`, `b`, `c` gibi kısaltmaları kullanmayın. Tabi ne yaptığınızı kesin olarak biliyorsanız kullanabilirsiniz.
 
 - İsimlerin açıklayıcı olmasına önem verin. Örneğin `veri` ve `deger` adindaki değişkenler bir şey ifade etmezler. Tabi eğer kod bloğunda bunların bir anlamı var ise kullanılabilir.
-- Bazı tanımları kafanızda takımınızın kullandığı şekil ile uyumlu şekilde oturtun. Örneğin sizeyi ziyaret eden kişi `kullanici` ise kullanıcı ile olan değişkenleri `anlikKullanici` veya `yeniKullanici` gibi kullanın fakat `yeniZiyaretci` veya `yeniCocuk` gibi kullanmayın.
+- Bazı tanımları kafanızda takımınızın kullandığı şekil ile uyumlu şekilde oturtun. Örneğin siteyi ziyaret eden kişi `kullanici` ise kullanıcı ile olan değişkenleri `anlikKullanici` veya `yeniKullanici` gibi kullanın fakat `yeniZiyaretci` veya `yeniCocuk` gibi kullanmayın.
 
 Basit değil mi? Gerçekten öyle, fakat pratikte bu kadar da basit değil. Umarım bunu siz gerçekleştirirsiniz.
 
